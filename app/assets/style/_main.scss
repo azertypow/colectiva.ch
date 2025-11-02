@@ -1,5 +1,7 @@
+@import 'fonts';
+
 html {
-  font-family: sans-serif;
+  font-family: 'ESRebondGrotesque', sans-serif;
   font-size: 20px;
   line-height: 1.25em;
   padding: 0;
@@ -11,12 +13,36 @@ body {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   line-height: 1.15em;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 2rem;
   line-height: 1.15em;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
+h3 {
+  font-size: 1rem;
+  line-height: 1.15em;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  line-height: 1.25em;
+  margin-top: 0;
+  margin-bottom: 1rem;
+
+  h3 + & {
+    margin-top: -1rem;
+  }
+}
+
+a {
+  color: inherit;
+}
