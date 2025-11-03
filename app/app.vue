@@ -54,7 +54,7 @@
       <div class="v-index__main__projects">
         <AppProject
           title="Résidence Novembre 2025"
-          cover="images/projects/251024felixKubinresidence.jpg"
+          cover="/images/projects/251024felixKubinresidence.jpg"
         >
           <p>
             Colectiva a le plaisir d’annoncer la résidence de
@@ -92,7 +92,7 @@
         <AppProject info="9 novembre, 17h, Le Passage :"
                     type="Conférence"
                     title="Deutsche Kassettentäter / German Tape Delinquents"
-                    cover="images/projects/conférence_felix_kubin.jpg"
+                    cover="/images/projects/conference_felix_kubin.jpg"
                     :has_toggle="true"
         ><p>
           <strong>Nous avons le plaisir de vous inviter à la conférence de Felix Kubin</strong>,
@@ -136,7 +136,7 @@
         <AppProject title="Demo Dandies"
                     type="Soirée DJ & émission radio expérimentale"
                     info="15 novembre, Ressources Urbaines, Ancienne Poste des Charmilles :"
-                    cover="images/projects/251022demoDandies-affiche.jpg"
+                    cover="/images/projects/251022demoDandies-affiche.jpg"
                     :has_toggle="true"
         >
           <h3>Bar opérationnel et Drunch préparé par Sabi, Lujo popular</h3>
@@ -214,7 +214,7 @@
 
         <AppProject title="Sortie de résidence"
                     info="26 novembre, 21h30, Cave 12 :"
-                    cover="images/projects/251024felixKubin-cave12-digital.jpg"
+                    cover="/images/projects/251024felixKubin-cave12-digital.jpg"
                     :has_toggle="true"
         >
           + d'infos : <a href="https://www.cave12.org/felix-kubins-colectiva/" >cave12.org/felix-kubins-colectiva/</a>
