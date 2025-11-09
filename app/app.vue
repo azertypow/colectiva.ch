@@ -10,7 +10,7 @@
           <strong>Colectiva</strong> est un programme de résidences de recherche artistique
           installé au cœur d’un <strong>lieu de vie collectif</strong> à Genève,
           au 6 chemin Annie&#8209;Jiagge. Il accueille des artistes suisses, régionaux et internationaux
-          pour des <strong>séjours de 2 à 8 semaines</strong>, dans un environnement propice
+          pour des <strong>séjours de 2 à 4 semaines</strong>, dans un environnement propice
           à la <strong>réflexion</strong>, à la <strong>création</strong> et au <strong>partage</strong>.En collaboration avec des
           partenaires issus des <strong>milieux sociaux, culturels et scientifiques,</strong>
           Colectiva cultive un esprit de <strong>convivialité</strong>, d’<strong>écoute</strong> et de <strong>coopération</strong>,
