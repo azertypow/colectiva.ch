@@ -231,6 +231,10 @@
   padding: 2rem;
   display: flex;
   flex-direction: column;
+
+  @media (max-width: 1000px) {
+    padding: 1rem;
+  }
 }
 
 .v-index__header {
