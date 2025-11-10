@@ -104,6 +104,9 @@ const isOpen = ref(false)
 .v-app-project__content {
   width: calc( ((100% + var(--gutter)) / 12 * 8) - var(--gutter));
   max-width: 40rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 
   @media (max-width: 1000px) {
     width: calc( ((100% + var(--gutter)) / 12 * 12) - var(--gutter));
@@ -126,6 +129,7 @@ const isOpen = ref(false)
   display: flex;
   width: 100%;
   justify-content: flex-end;
+  margin-bottom: 1rem;
 
   svg {
     fill: #109d34;
